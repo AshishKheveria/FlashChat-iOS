@@ -1,12 +1,15 @@
 # Flash-Chat
 
+![Screenshot 2021-06-21 at 6 27 21 PM](https://user-images.githubusercontent.com/76988309/122773392-f540ff80-d2c5-11eb-9a05-c89793f576fb.png)
+![Screenshot 2021-06-21 at 6 27 41 PM](https://user-images.githubusercontent.com/76988309/122773432-fb36e080-d2c5-11eb-8376-5ca066d7e1c8.png)
+![Screenshot 2021-06-21 at 6 28 25 PM](https://user-images.githubusercontent.com/76988309/122773448-feca6780-d2c5-11eb-9180-1809a3c8da3d.png)
 
 
 ## Our Goal
 
 One of the most fundamental component of modern iOS apps is the Table View. Table Views are used everywhere from the Mail app to the Messages app. It’s a crucial part of every iOS developer’s tool belt. In this tutorial we’ll be getting to grips with Table Views, creating custom cells, and making our own cloud-based backend database.
 
-## What you will create
+## What we will create
 
 Flash Chat is an internet based messaging app similar to WhatsApp, the popular messaging app that was bought by Facebook for $22 billion. We will be using a service called Firebase Firestore as a backend database to store and retrieve our messages from the cloud. 
 
